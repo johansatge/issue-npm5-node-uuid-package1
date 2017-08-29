@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "node-uuid": "~1.4.0"
+    "issue-npm5-node-uuid-package3": "github:johansatge/issue-npm5-node-uuid-package3"
   }
 }
