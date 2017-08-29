@@ -1,4 +1,4 @@
-const package3 = require('issue-npm5-node-uuid-package3')
+const package2 = require('issue-npm5-node-uuid-package2')
 module.exports = function() {
   console.log('npm5-node-uuid-package1')
 }
